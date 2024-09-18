@@ -4,7 +4,7 @@ import React from "react"
 export default () => {
     return (
         <div>
-            this is test
+            this is Container app
             <MarketingApp />
         </div>
     )
