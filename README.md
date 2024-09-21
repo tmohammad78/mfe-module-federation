@@ -4,7 +4,7 @@ This sample is an exercise and some components are fully copy-pasted.
 
 ## Approach
 In this sample, we are using module federation with webpack configuration.
-Also this is mono repo project and we should have CI/CD configuration in the root folder, so If you see that is doesn't work for your company, you should separate each project and make it multi repo.
+Also this is mono repo project and we should have CI/CD configuration in the root folder, so If you see that doesn't work for your company, you should separate each project and make it multi repo.
 
 ## Alternatives
 
